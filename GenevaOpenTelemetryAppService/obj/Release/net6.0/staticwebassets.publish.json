@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lwwgWJzDgNbk/cy3CHn1Blh/hayg3fQf3DMrK5Xl5Cg=",
+  "Source": "GenevaOpenTelemetryAppService",
+  "BasePath": "_content/GenevaOpenTelemetryAppService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
